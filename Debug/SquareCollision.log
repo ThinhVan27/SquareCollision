@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(50,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(50,43): warning C4244:         with
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(50,43): warning C4244:         [
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(50,43): warning C4244:             T=float
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(50,43): warning C4244:         ]
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(80,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(80,37): warning C4244:         with
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(80,37): warning C4244:         [
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(80,37): warning C4244:             T=float
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(80,37): warning C4244:         ]
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(92,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(92,33): warning C4244:         with
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(92,33): warning C4244:         [
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(92,33): warning C4244:             T=float
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(92,33): warning C4244:         ]
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(104,27): warning C4244: 'argument': conversion from 'const double' to 'unsigned int', possible loss of data
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\SquareCollision\Source.cpp(122,27): warning C4244: 'argument': conversion from 'const double' to 'unsigned int', possible loss of data
+  SquareCollision.vcxproj -> C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SquareCollision\Debug\SquareCollision.exe
